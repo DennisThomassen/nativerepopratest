@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nativepra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea60b90d15ea84041cba25af6a9573cf8e8ce39e")]
 [assembly: System.Reflection.AssemblyProductAttribute("nativepra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nativepra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
